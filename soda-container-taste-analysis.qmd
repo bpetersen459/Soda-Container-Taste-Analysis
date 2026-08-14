@@ -11,6 +11,7 @@ format:
     code-tools: true
     theme: cosmo
     embed-resources: true
+    output-file: index.html
 execute:
   echo: true
   warning: false
