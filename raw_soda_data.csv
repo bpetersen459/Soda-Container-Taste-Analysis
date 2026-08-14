@@ -1,0 +1,37 @@
+block,treatment,taste_score,replicate
+Block1,Glass Bottle,8,1
+Block1,Can,9,1
+Block1,Plastic Cup,7,1
+Block2,Glass Bottle,4,1
+Block2,Can,8,1
+Block2,Plastic Cup,9,1
+Block3,Glass Bottle,7,1
+Block3,Can,9,1
+Block3,Plastic Cup,4,1
+Block4,Glass Bottle,7,1
+Block4,Can,8,1
+Block4,Plastic Cup,9,1
+Block1,Glass Bottle,7,2
+Block1,Can,8,2
+Block1,Plastic Cup,6,2
+Block2,Glass Bottle,8,2
+Block2,Can,9,2
+Block2,Plastic Cup,7,2
+Block3,Glass Bottle,4,2
+Block3,Can,8,2
+Block3,Plastic Cup,9,2
+Block4,Glass Bottle,7,2
+Block4,Can,9,2
+Block4,Plastic Cup,4,2
+Block1,Glass Bottle,9,3
+Block1,Can,6,3
+Block1,Plastic Cup,7,3
+Block2,Glass Bottle,8,3
+Block2,Can,7,3
+Block2,Plastic Cup,5,3
+Block3,Glass Bottle,6,3
+Block3,Can,4,3
+Block3,Plastic Cup,6,3
+Block4,Glass Bottle,8,3
+Block4,Can,6,3
+Block4,Plastic Cup,7,3
